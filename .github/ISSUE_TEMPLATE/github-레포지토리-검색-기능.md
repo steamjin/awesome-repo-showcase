@@ -1,6 +1,6 @@
 ---
 name: GitHub 레포지토리 검색 기능
-about: 검색기능
+about: 검색을 통한 참고
 title: ''
 labels: ''
 assignees: ''
